@@ -11,7 +11,7 @@
 
 ## 自我描述
 
-我是一名热爱**开源**的PHP开发者（自认为也算是个PHP+前端的全栈开发者），喜欢把自己的代码分享给他人，方便他人学习和提供建议从而完善代码。我追求开发**高质量**代码，对于这方面我整理了PHP开发规范文档 **[PHPStandardDevelop](https://github.com/xinyflove/PHPStandardDevelop)** ，并把其发布到 GitHub ；平常也会把自己总结的知识和经验写在博客上，供大家参考。
+我是一名热爱**开源**的PHP开发者（自认为也算是一名PHP+前端的全栈开发者），喜欢把自己的代码分享给他人，方便他人学习和提供建议从而完善代码。平常也会把自己总结的知识和经验写在博客上，供大家参考。
 
 ## 工作经验
 
@@ -19,26 +19,33 @@
 
 *2017/8 - 至今*
 
-在 商派B2B2C商城系统 基础上负责 青岛广电生活圈商城系统 的定制开发，主要内容如下：
+在「媒体电商研发中心部」下主要负责 PHP的开发、项目管理和技术面试，主要内容如下：
 
-* 商城的基础功能维护；
-* 针对入驻频道店铺提出的个性化需求进行功能开发；
+* 在商派B2B2C商城系统基础上，对青岛广电生活圈商城系统进行维护和定制开发；
+* 外部项目的需求分析、功能规划和开发排期；
+* 对PHP应聘者进行技术面试；
 
 
 ### **PHP 开发工程师** [[青岛华正信息技术有限公司](http://www.huazhenginfo.com)]
 
 *2016/04 - 2017/08*
 
-在PHP开发团队中作为基础组件开发的核心成员，其主要职责如下：
+在PHP开发团队中作为开发的核心成员，其主要职责如下：
+
+* 使用成熟框（商派BBC系统和ShopNC）架进行二次开发；
 
 
 ### **PHP 开发工程师** [[青岛众恒信息科技股份有限公司](http://www.zehin.com.cn)]
 
 *2015/07 - 2016/04*
 
+* 使用Drupal框架，维护Pass云平台；
+
 ### **PHP 开发工程师** [青岛双牛信息技术有限公司]
 
 *2013/11 - 2015/07*
+
+* 使用公司内部框架，对智能客服系统进行开发；
 
 
 ## 技能专长
@@ -47,22 +54,26 @@
 
 ### 编程语言
 
-- [PHP](https://www.java.com)^†^
+- [PHP](https://php.net)^†^
 - [JavaScript](https://www.javascript.com)^†^
 - [HTML](https://www.w3.org/html)^†^
-- [Python](https://www.python.org)
 - [Shell](http://www.linuxshell.it)
-
 
 ### 框架
 
-- [商派BBC系统]()^†^
-- [Laravel](https://laravel.com/)
+- [商派BBC系统](http://www.shopex.cn/onex/b2b2c)^†^
+- [ShopNC](http://www.shopnc.net)
+- [Laravel](https://laravel.com)
+- [ThinkPHP](http://www.thinkphp.cn)
+- [CodeIgniter](http://codeigniter.org.cn)
+- [Drupal](https://www.drupal.org)
+- [WordPress](https://wordpress.org)
+- [ThinkCMF](https://www.thinkcmf.com)
 
 
 ### 工具软件
 
-- [Adobe Photoshop](http://www.adobe.com/cn/products/cs6/photoshop.html)
+- [Adobe Photoshop](http://www.adobe.com/cn/products/cs6/photoshop.html)^†^
 - [Git](https://git-scm.com)^†^
 - [XMind](https://www.xmind.cn)
 
@@ -76,9 +87,9 @@
 ## 个人荣誉
 
 * **2012年潍坊市优秀毕业生**；
-* **学生会优秀干部**。
+* **学生会优秀干部**；
 
 
 ## 兴趣爱好
 
-喜爱看电影、读书。
+喜欢钻研技术难点，浏览大牛们的技术博客，在薄荷英语上学习英语，喜欢看电影、美剧、NBA和足球比赛。
