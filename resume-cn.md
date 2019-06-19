@@ -6,12 +6,13 @@
 - 电子邮箱: [xinyflove&#64;sina.com](xinyflove&#64;sina.com)
 - 个人博客: [http://xinyufeng.net](http://xinyufeng.net)
 - GitHub: [https://github.com/xinyflove](https://github.com/xinyflove)
+- Gitee: [https://github.com/xinyflove](https://gitee.com/xinyflove)
 - CSDN博客: [https://blog.csdn.net/xinyflove](https://blog.csdn.net/xinyflove)
 
 
 ## 自我描述
 
-我是一名热爱**开源**的PHP开发者（自认为也算是一名PHP+前端的全栈开发者），喜欢把自己的代码分享给他人，方便他人学习和提供建议从而完善代码。平常也会把自己总结的知识和经验写在博客上，供大家参考。
+我是一名热爱**开源**的PHP开发者（也是一名PHP+前端的全栈开发者），喜欢把自己的代码分享给他人，方便他人学习和提供建议从而完善代码。平常也会把自己总结的知识和经验写在博客上，供大家参考。
 
 ## 工作经验
 
@@ -22,6 +23,9 @@
 在「媒体电商研发中心部」下主要负责 PHP的开发、项目管理和技术面试，主要内容如下：
 
 * 在商派B2B2C商城系统基础上，对青岛广电生活圈商城系统进行维护和定制开发；
+* 基于微赞框架进行微信公众号开发；
+* 小程序开发；
+* 基于ThinkPHP和Laravel框架的项目开发；
 * 外部项目的需求分析、功能规划和开发排期；
 * 对PHP应聘者进行技术面试；
 
@@ -32,7 +36,9 @@
 
 在PHP开发团队中作为开发的核心成员，其主要职责如下：
 
-* 使用成熟框（商派BBC系统和ShopNC）架进行二次开发；
+* 使用成熟商城系统（商派BBC系统和ShopNC）进行二次开发；
+* 使用微赞框架进行微信公众号开发；
+* 使用ThinkPHP和CI框架的项目开发；
 
 
 ### **PHP 开发工程师** [[青岛众恒信息科技股份有限公司](http://www.zehin.com.cn)]
@@ -47,6 +53,13 @@
 
 * 使用公司内部框架，对智能客服系统进行开发；
 
+## 项目经验
+
+### [青岛广电生活圈](http://www.tvplaza.cn)
+
+项目时间：2016/5 - 至今  
+项目介绍：
+
 
 ## 技能专长
 
@@ -55,8 +68,10 @@
 ### 编程语言
 
 - [PHP](https://php.net)^†^
-- [JavaScript](https://www.javascript.com)^†^
 - [HTML](https://www.w3.org/html)^†^
+- [CSS]()^†^
+- [JavaScript](https://www.javascript.com)^†^
+- [JQuery]()^†^
 - [Shell](http://www.linuxshell.it)
 
 ### 框架
