@@ -4,7 +4,7 @@
 
 - 联系电话: +86 176-xxxx-xxxx
 - 电子邮箱: [xinyflove&#64;sina.com](xinyflove&#64;sina.com)
-- 个人博客: [http://xinyufeng.net](http://xinyufeng.net)
+- 个人博客: [https://blog.xinyufeng.net](https://blog.xinyufeng.net)
 - GitHub: [https://github.com/xinyflove](https://github.com/xinyflove)
 - Gitee: [https://github.com/xinyflove](https://gitee.com/xinyflove)
 - CSDN博客: [https://blog.csdn.net/xinyflove](https://blog.csdn.net/xinyflove)
@@ -58,8 +58,12 @@
 ### [青岛广电生活圈](http://www.tvplaza.cn)
 
 项目时间：2016/5 - 至今  
-项目介绍：
+项目介绍：广电生活圈是青岛广电旗下的，把电视和电台、线上和线下整合在一起的一个购物的平台。入住店铺有：[蓝莓购物](http://www.tvplaza.cn/wap/tvshopping.html?shop_id=38)、[米粒(FM915美食频道)](http://www.tvplaza.cn/wap/shopindex.html?shop_id=7)等
 
+### [广电优选](http://qtvbest.com)
+
+项目时间：2018/10 - 2018/12  
+项目介绍：
 
 ## 技能专长
 
