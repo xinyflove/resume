@@ -16,7 +16,7 @@
 
 ## 工作经验
 
-### **PHP 开发工程师** [青岛广电传媒电子商务有限公司](http://www.qtvinfo.com)
+### **PHP 开发工程师** [[青岛广电传媒电子商务有限公司](http://www.qtvinfo.com)]
 
 *2017/8 - 至今*
 
@@ -55,15 +55,21 @@
 
 ## 项目经验
 
-### [青岛广电生活圈](http://www.tvplaza.cn)
+### 青岛广电生活圈 [http://www.tvplaza.cn](http://www.tvplaza.cn)
 
 项目时间：2016/5 - 至今  
-项目介绍：广电生活圈是青岛广电旗下的，把电视和电台、线上和线下整合在一起的一个购物的平台。入住店铺有：[蓝莓购物](http://www.tvplaza.cn/wap/tvshopping.html?shop_id=38)、[米粒(FM915美食频道)](http://www.tvplaza.cn/wap/shopindex.html?shop_id=7)等
+项目介绍：广电生活圈是青岛广电旗下的，以M2O电商模式为核心，把电视和电台、线上和线下整合在一起的一个购物的平台。入住店铺有：[蓝莓购物](http://www.tvplaza.cn/wap/tvshopping.html?shop_id=38)、[米粒(FM915美食频道)](http://www.tvplaza.cn/wap/shopindex.html?shop_id=7)等
 
-### [广电优选](http://qtvbest.com)
+### 广电优选 [http://qtvbest.com](http://qtvbest.com)
 
 项目时间：2018/10 - 2018/12  
-项目介绍：
+项目介绍：在青岛广电生活圈基础上实现店铺之间商品共享，店铺可以把本店铺商品上架到广电优选，店铺在广电优选可以拉取其他店铺共享的商品到本店铺进行销售。
+
+### 优选创客
+
+项目时间：2018/10 - 至今  
+项目介绍：在青岛广电生活圈基础上给店铺绑定创客，创客可以拉取店铺的商品进行销售，并获取一定的佣金。
+
 
 ## 技能专长
 
@@ -92,15 +98,33 @@
 
 ### 工具软件
 
+- [PhpStorm](https://www.jetbrains.com/phpstorm)^†^
+- [Notepad++](https://notepad-plus.en.softonic.com)^†^
+- [Sublime Text](http://www.sublimetext.com)
+- [Visual Studio Code](https://code.visualstudio.com)
+- [Beyond Compare](http://www.scootersoftware.com/download.php)
+- [phpStudy](http://phpstudy.php.cn/index.php)^†^
+- [Composer](https://getcomposer.org)
+- [Node.js](https://nodejs.org/en/)
+- [Navicat](https://www.navicat.com.cn)^†^
+- [Postman](https://www.getpostman.com)^†^
+- [Koala](http://koala-app.com/index-zh.html)^†^
+- [微信web开发者工具](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)^†^
 - [Adobe Photoshop](http://www.adobe.com/cn/products/cs6/photoshop.html)^†^
 - [Git](https://git-scm.com)^†^
+- [SVN](https://tortoisesvn.net)^†^
+- [Xshell](https://xshell.en.softonic.com)^†^
+- [FileZilla](https://filezilla-project.org)^†^
+- [VMware](https://www.vmware.com/cn.html)^†^
 - [XMind](https://www.xmind.cn)
+- [Microsoft Project](https://products.office.com/zh-cn/project/project-and-portfolio-management-software)
+- [SoapUI](https://www.soapui.org)
 
 
 ## 教育经历
 
 *2015 - 2017* [中国海洋大学 函授](http://jxjy.ouc.edu.cn/) 工商管理 本科  
-*2009 - 2012* [潍坊科技学院](http://www.wfust.edu.cn/) 电子信息工程 专科
+*2009 - 2012* [潍坊科技学院](http://www.wfust.edu.cn/) 计算机网络技术 专科
 
 
 ## 个人荣誉
