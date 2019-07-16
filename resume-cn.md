@@ -107,6 +107,7 @@
 - [Composer](https://getcomposer.org)
 - [Node.js](https://nodejs.org/en/)
 - [Navicat](https://www.navicat.com.cn)^†^
+- [Redis Desktop Manager](https://redisdesktop.com)^†^
 - [Postman](https://www.getpostman.com)^†^
 - [Koala](http://koala-app.com/index-zh.html)^†^
 - [微信web开发者工具](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)^†^
@@ -117,6 +118,7 @@
 - [FileZilla](https://filezilla-project.org)^†^
 - [VMware](https://www.vmware.com/cn.html)^†^
 - [XMind](https://www.xmind.cn)
+- [Mindjet](https://www.mindjet.com)
 - [Microsoft Project](https://products.office.com/zh-cn/project/project-and-portfolio-management-software)
 - [SoapUI](https://www.soapui.org)
 
