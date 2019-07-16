@@ -98,29 +98,7 @@
 
 ### 工具软件
 
-- [PhpStorm](https://www.jetbrains.com/phpstorm)^†^
-- [Notepad++](https://notepad-plus.en.softonic.com)^†^
-- [Sublime Text](http://www.sublimetext.com)
-- [Visual Studio Code](https://code.visualstudio.com)
-- [Beyond Compare](http://www.scootersoftware.com/download.php)
-- [phpStudy](http://phpstudy.php.cn/index.php)^†^
-- [Composer](https://getcomposer.org)
-- [Node.js](https://nodejs.org/en/)
-- [Navicat](https://www.navicat.com.cn)^†^
-- [Redis Desktop Manager](https://redisdesktop.com)^†^
-- [Postman](https://www.getpostman.com)^†^
-- [Koala](http://koala-app.com/index-zh.html)^†^
-- [微信web开发者工具](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)^†^
-- [Adobe Photoshop](http://www.adobe.com/cn/products/cs6/photoshop.html)^†^
-- [Git](https://git-scm.com)^†^
-- [SVN](https://tortoisesvn.net)^†^
-- [Xshell](https://xshell.en.softonic.com)^†^
-- [FileZilla](https://filezilla-project.org)^†^
-- [VMware](https://www.vmware.com/cn.html)^†^
-- [XMind](https://www.xmind.cn)
-- [Mindjet](https://www.mindjet.com)
-- [Microsoft Project](https://products.office.com/zh-cn/project/project-and-portfolio-management-software)
-- [SoapUI](https://www.soapui.org)
+[PhpStorm](https://www.jetbrains.com/phpstorm)^†^、[Notepad++](https://notepad-plus.en.softonic.com)^†^、[Sublime Text](http://www.sublimetext.com)、[Visual Studio Code](https://code.visualstudio.com)、[Beyond Compare](http://www.scootersoftware.com/download.php)、[phpStudy](http://phpstudy.php.cn/index.php)^†^、[Composer](https://getcomposer.org)、[Node.js](https://nodejs.org/en/)、[Navicat](https://www.navicat.com.cn)^†^、[Redis Desktop Manager](https://redisdesktop.com)^†^、[Postman](https://www.getpostman.com)^†^、[Koala](http://koala-app.com/index-zh.html)^†^、[微信web开发者工具](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)^†^、[Adobe Photoshop](http://www.adobe.com/cn/products/cs6/photoshop.html)^†^、[Git](https://git-scm.com)^†^、[SVN](https://tortoisesvn.net)^†^、[Xshell](https://xshell.en.softonic.com)^†^、[FileZilla](https://filezilla-project.org)^†^、[VMware](https://www.vmware.com/cn.html)^†^、[XMind](https://www.xmind.cn)、[Mindjet](https://www.mindjet.com)、[Microsoft Project](https://products.office.com/zh-cn/project/project-and-portfolio-management-software)、[SoapUI](https://www.soapui.org)
 
 
 ## 教育经历
