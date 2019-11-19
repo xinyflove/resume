@@ -4,7 +4,7 @@
 
 - 联系电话: +86 176-xxxx-xxxx
 - 电子邮箱: [xinyflove&#64;sina.com](xinyflove&#64;sina.com)
-- 个人博客: [https://blog.xinyufeng.net](https://blog.xinyufeng.net)
+- 个人博客: [https://blog.xinyufeng.net](https://xinyufeng.net)
 - GitHub: [https://github.com/xinyflove](https://github.com/xinyflove)
 - Gitee: [https://github.com/xinyflove](https://gitee.com/xinyflove)
 - CSDN博客: [https://blog.csdn.net/xinyflove](https://blog.csdn.net/xinyflove)
