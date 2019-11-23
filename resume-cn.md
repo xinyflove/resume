@@ -4,7 +4,7 @@
 
 - 联系电话: +86 176-xxxx-xxxx
 - 电子邮箱: [xinyflove&#64;sina.com](xinyflove&#64;sina.com)
-- 个人博客: [https://blog.xinyufeng.net](https://xinyufeng.net)
+- 个人博客: [https://xinyufeng.net](https://xinyufeng.net)
 - GitHub: [https://github.com/xinyflove](https://github.com/xinyflove)
 - Gitee: [https://github.com/xinyflove](https://gitee.com/xinyflove)
 - CSDN博客: [https://blog.csdn.net/xinyflove](https://blog.csdn.net/xinyflove)
@@ -20,14 +20,14 @@
 
 *2017/8 - 至今*
 
-在「媒体电商研发中心部」下主要负责 PHP的开发、项目管理和技术面试，主要内容如下：
+在「媒体电商研发中心部」下主要负责 PHP开发、项目管理和技术面试，主要内容如下：
 
 * 在商派B2B2C商城系统基础上，对青岛广电生活圈商城系统进行维护和定制开发；
-* 基于微赞框架进行微信公众号开发；
+* 基于微赞框架的微信公众号开发；
 * 小程序开发；
 * 基于ThinkPHP和Laravel框架的项目开发；
 * 外部项目的需求分析、功能规划和开发排期；
-* 对PHP应聘者进行技术面试；
+* 对PHP应聘者进行技术面试。
 
 
 ### **PHP 开发工程师** [[青岛华正信息技术有限公司](http://www.huazhenginfo.com)]
@@ -36,9 +36,9 @@
 
 在PHP开发团队中作为开发的核心成员，其主要职责如下：
 
-* 使用成熟商城系统（商派BBC系统和ShopNC）进行二次开发；
-* 使用微赞框架进行微信公众号开发；
-* 使用ThinkPHP和CI框架的项目开发；
+* 基于成熟的商城系统（商派BBC系统和ShopNC）进行二次开发；
+* 基于微赞框架的微信公众号开发；
+* 基于ThinkPHP和CI框架的项目开发；
 
 
 ### **PHP 开发工程师** [[青岛众恒信息科技股份有限公司](http://www.zehin.com.cn)]
@@ -51,7 +51,7 @@
 
 *2013/11 - 2015/07*
 
-* 使用公司内部框架，对智能客服系统进行开发；
+* 基于公司内部框架，对智能客服系统进行开发；
 
 ## 项目经验
 
