@@ -1,18 +1,37 @@
-# 辛玉峰
+# 我的简历
 
-## PHP开发工程师
+## 个人信息
 
+- 辛玉峰/男/1990
 - 联系电话: +86 176-xxxx-xxxx
 - 电子邮箱: [xinyflove&#64;sina.com](xinyflove&#64;sina.com)
+- 期望职位：PHP开发工程师 / 前端开发工程师
 - 个人博客: [https://xinyufeng.net](https://xinyufeng.net)
 - GitHub: [https://github.com/xinyflove](https://github.com/xinyflove)
 - Gitee: [https://github.com/xinyflove](https://gitee.com/xinyflove)
 - CSDN博客: [https://blog.csdn.net/xinyflove](https://blog.csdn.net/xinyflove)
 
+## 技能清单
 
-## 自我描述
+- 后端开发：PHP
+- 后端框架：Laravel/ThinkPHP/CodeIgniter/Drupal/WordPress/ThinkCMF/商派BBC系统/ShopNC
+- 前端开发：Html5/JavaScript/CSS/NodeJS
+- 前端框架：Bootstrap/jQuery/LayUI/Vue
+- 数据库相关：MySQL(索引优化、业务需求分析与表结构设计)/PDO/SQLite
+- 版本管理工具：SVN/Git/Composer
+- 单元测试：PHPUnit
+- 缓存：Redis/Memecached
+- 微信相关: 微信支付、微信公众号、小程序开发
+- Linux：常用命令、定时化任务、项目环境搭建与部署
+- 高并发、性能优化方案：SQL优化、缓存技术、静态化页面、OSS云存储、CDN加速、负载均衡
+- 安全：Token加密解密验证、SQL注入
+- 其他：熟悉MarkDown语法，了解Java、Python
 
-我是一名热爱**开源**的PHP开发者（也是一名PHP+前端的全栈开发者），喜欢把自己的代码分享给他人，方便他人学习和提供建议从而完善代码。平常也会把自己总结的知识和经验写在博客上，供大家参考。
+## 个人优势
+
+- 6年软件开发经验，2.5年商城开发和维护经验，1年项目管理经验，积累了较多的业务、开发和项目管理经验，能独立完成一个 Web 应用的开发
+- 有良好的学习能力、沟通能力、解决问题能力，拥有较强的工作责任感
+- 拥有 Geek 精神，热爱开源，喜欢把自己总结的知识和经验写在博客上，供大家参考。
 
 ## 工作经验
 
@@ -25,7 +44,7 @@
 * 在商派B2B2C商城系统基础上，对青岛广电生活圈商城系统进行维护和定制开发；
 * 基于微赞框架的微信公众号开发；
 * 小程序开发；
-* 基于ThinkPHP和Laravel框架的项目开发；
+* 基于ThinkPHP和Laravel框架的系统开发；
 * 外部项目的需求分析、功能规划和开发排期；
 * 对PHP应聘者进行技术面试。
 
@@ -56,49 +75,28 @@
 ## 项目经验
 
 ### 青岛广电生活圈 [http://www.tvplaza.cn](http://www.tvplaza.cn)
+ 
+**项目介绍：**
 
-项目时间：2016/5 - 至今  
-项目介绍：广电生活圈是青岛广电旗下的，以M2O电商模式为核心，把电视和电台、线上和线下整合在一起的一个购物的平台。入住店铺有：[蓝莓购物](http://www.tvplaza.cn/wap/tvshopping.html?shop_id=38)、[米粒(FM915美食频道)](http://www.tvplaza.cn/wap/shopindex.html?shop_id=7)等
+广电生活圈是青岛广电旗下的，以M2O电商模式为核心，把电视和电台、线上和线下整合在一起的一个购物的平台。入住店铺有：[蓝莓购物](http://www.tvplaza.cn/wap/tvshopping.html?shop_id=38)、[米粒(FM915美食频道)](http://www.tvplaza.cn/wap/shopindex.html?shop_id=7)等。  
+目前商城总会员数为47w左右，有效会员数为5左右，最高并发量在900左右。
+
+**项目职责：**
+
+对入住商城的店铺提出的需求，进行功能规划、开发排期、表结构设计和核心代码开发。  
+以新增模块蓝睛商城为例，实现了商城管理员登录、活动管理、活动奖品管理和会员单点登录等功能，给蓝睛APP提供活动相关接口。
 
 ### 广电优选 [http://qtvbest.com](http://qtvbest.com)
 
-项目时间：2018/10 - 2018/12  
-项目介绍：在青岛广电生活圈基础上实现店铺之间商品共享，店铺可以把本店铺商品上架到广电优选，店铺在广电优选可以拉取其他店铺共享的商品到本店铺进行销售。
+**项目介绍：**
 
-### 优选创客
+在青岛广电生活圈系统基础上，新增了广电优选平台。实现店铺之间商品共享，店铺可以把本店铺商品上架到广电优选，店铺在广电优选可以拉取其他店铺共享的商品到本店铺进行销售。
 
-项目时间：2018/10 - 至今  
-项目介绍：在青岛广电生活圈基础上给店铺绑定创客，创客可以拉取店铺的商品进行销售，并获取一定的佣金。
+### 优选创客 [http://www.tvplaza.cn/maker/maker-home.html](http://www.tvplaza.cn/maker/maker-home.html)
 
+**项目介绍：** 
 
-## 技能专长
-
-以下都是我平时用过或熟悉的编程语言、框架、软件及工具，带 ^†^ 符号的是我比较喜欢和常用的。
-
-### 编程语言
-
-- [PHP](https://php.net)^†^
-- [HTML](https://www.w3.org/html)^†^
-- [CSS]()^†^
-- [JavaScript](https://www.javascript.com)^†^
-- [JQuery]()^†^
-- [Shell](http://www.linuxshell.it)
-
-### 框架
-
-- [商派BBC系统](http://www.shopex.cn/onex/b2b2c)^†^
-- [ShopNC](http://www.shopnc.net)
-- [Laravel](https://laravel.com)
-- [ThinkPHP](http://www.thinkphp.cn)
-- [CodeIgniter](http://codeigniter.org.cn)
-- [Drupal](https://www.drupal.org)
-- [WordPress](https://wordpress.org)
-- [ThinkCMF](https://www.thinkcmf.com)
-
-
-### 工具软件
-
-[PhpStorm](https://www.jetbrains.com/phpstorm)^†^、[Notepad++](https://notepad-plus.en.softonic.com)^†^、[Sublime Text](http://www.sublimetext.com)、[Visual Studio Code](https://code.visualstudio.com)、[Beyond Compare](http://www.scootersoftware.com/download.php)、[phpStudy](http://phpstudy.php.cn/index.php)^†^、[Composer](https://getcomposer.org)、[Node.js](https://nodejs.org/en/)、[Navicat](https://www.navicat.com.cn)^†^、[Redis Desktop Manager](https://redisdesktop.com)^†^、[Postman](https://www.getpostman.com)^†^、[Koala](http://koala-app.com/index-zh.html)^†^、[微信web开发者工具](https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html)^†^、[Adobe Photoshop](http://www.adobe.com/cn/products/cs6/photoshop.html)^†^、[Git](https://git-scm.com)^†^、[SVN](https://tortoisesvn.net)^†^、[Xshell](https://xshell.en.softonic.com)^†^、[FileZilla](https://filezilla-project.org)^†^、[VMware](https://www.vmware.com/cn.html)^†^、[XMind](https://www.xmind.cn)、[Mindjet](https://www.mindjet.com)、[Microsoft Project](https://products.office.com/zh-cn/project/project-and-portfolio-management-software)、[SoapUI](https://www.soapui.org)
+在青岛广电生活圈基础上给店铺绑定创客，创客可以拉取店铺的商品进行销售，并获取一定的佣金。
 
 
 ## 教育经历
