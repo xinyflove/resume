@@ -14,7 +14,7 @@
 ## 技能清单
 
 - 后端开发：PHP
-- 后端框架：Laravel/ThinkPHP/CodeIgniter/Drupal/WordPress/ThinkCMF/商派BBC系统/ShopNC
+- 后端框架：Laravel/ThinkPHP/CodeIgniter/Drupal/WordPress/ThinkCMF/ECshop B2B2C/ShopNC
 - 前端开发：Html5/JavaScript/CSS/NodeJS
 - 前端框架：Bootstrap/jQuery/LayUI
 - 数据库相关：MySQL(索引优化、业务需求分析与表结构设计)/PDO/SQLite
