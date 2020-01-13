@@ -121,6 +121,11 @@
 6. **青岛广电教育全媒体公众号**
 7. **市北体育公众号**
 
+## 个人开源项目
+
+1. XShop小程序商城 [https://gitee.com/peakxin/xshop](https://gitee.com/peakxin/xshop)
+2. posterjs生成商品海报 [https://gitee.com/peakxin/posterjs](https://gitee.com/peakxin/posterjs)
+
 ## 教育经历
 
 *2015 - 2017* [中国海洋大学（函授）](http://jxjy.ouc.edu.cn/) 工商管理 本科  
