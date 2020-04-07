@@ -8,7 +8,7 @@
 - 期望职位：PHP开发工程师 / 前端开发工程师
 - 个人博客: [https://xinyufeng.net](https://xinyufeng.net)
 - GitHub: [https://github.com/xinyflove](https://github.com/xinyflove)
-- Gitee: [https://github.com/xinyflove](https://gitee.com/xinyflove)
+- Gitee: [https://github.com/peakxin](https://gitee.com/peakxin)
 - CSDN博客: [https://blog.csdn.net/xinyflove](https://blog.csdn.net/xinyflove)
 
 ## 技能清单
