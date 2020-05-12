@@ -15,8 +15,8 @@
 
 - 后端开发：PHP
 - 后端框架：Laravel/ThinkPHP/ShopEX B2B2C/ThinkCMF/CodeIgniter/Drupal/WordPress/ShopNC等
-- 前端开发：Html5/JavaScript/CSS/NodeJS
-- 前端框架：Bootstrap/jQuery/LayUI
+- 前端开发：Html5/JavaScript/CSS
+- 前端框架：Bootstrap/jQuery/LayUI/NodeJS
 - 数据库相关：MySQL(索引优化、业务需求分析与表结构设计)/PDO/SQLite
 - 版本管理工具：SVN/Git/Composer/npm
 - 单元测试：PHPUnit
@@ -101,7 +101,7 @@
 
 **项目职责：**
 
-担任项目开发组长，负责对接客户需求、需求分析与功能规划、制定开发排期、表结构设计以及系统中部分功能开发，把控整体项目进度。
+担任项目开发组长，负责对接客户需求、功能解析、规划开发排期、表结构设计以及部分功能开发，把控整体项目进度。
 
 ### 其他项目
 
