@@ -16,7 +16,7 @@
 - 后端开发：PHP
 - 后端框架：Laravel/ThinkPHP/ShopEX B2B2C/ThinkCMF/CodeIgniter/Drupal/WordPress/ShopNC等
 - 前端开发：Html5/JavaScript/CSS
-- 前端框架：Bootstrap/jQuery/LayUI/NodeJS
+- 前端框架：Bootstrap/jQuery/LayUI
 - 数据库相关：MySQL(索引优化、业务需求分析与表结构设计)/PDO/SQLite
 - 版本管理工具：SVN/Git/Composer/npm
 - 单元测试：PHPUnit
@@ -25,7 +25,7 @@
 - Linux：常用命令、定时化任务、项目环境搭建与部署
 - 高并发、性能优化方案：SQL优化、缓存技术、静态化页面、OSS云存储、CDN加速、负载均衡
 - 安全：Token加密解密验证、SQL注入
-- 其他：熟悉MarkDown语法，了解Java、Python、Vue、React、webpack
+- 其他：熟悉MarkDown语法，了解Java、Python、Vue、React、webpack、NodeJS
 
 ## 个人优势
 
