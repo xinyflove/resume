@@ -45,9 +45,7 @@
 * 广电生活圈商城系统定制开发和运维；
 * 基于ThinkPHP和Laravel框架的系统开发；
 * 基于微赞框架的微信公众号开发；
-* 小程序开发；
-* 项目管理；
-* 对PHP应聘者进行技术面试。
+* 项目管理。
 
 
 ### **PHP 开发工程师** [[青岛华正信息技术有限公司](http://www.huazhenginfo.com)]
@@ -58,7 +56,7 @@
 
 * 基于成熟的商城系统（ShopEX B2B2C和ShopNC）进行二次开发；
 * 基于微赞框架的微信公众号开发；
-* 基于ThinkPHP和CI框架的系统开发；
+* 基于ThinkPHP和CI框架的系统开发。
 
 
 ### **PHP 开发工程师** [[青岛众恒信息科技股份有限公司](http://www.zehin.com.cn)]
@@ -98,6 +96,7 @@
 **项目介绍：**
 
 昱周科技智慧服务平台是以电器服务为基础的综合性，一站式链接一切的智慧家居服务平台，昱周365小程序端是链接用户需求的下单平台，用户有家居服务、家电维修、清洗保养等需求，可在小程序端下单，通过系统平台分配师傅上门服务。
+1. 入驻师傅40+，注册会员3600+，订单量4700+；
 
 **项目职责：**
 
@@ -107,7 +106,11 @@
 
 **项目介绍：**
 
-蓝睛APP生活圈商城是基于大商创商城系统
+蓝睛APP生活圈商城是基于大商创商城系统为蓝睛APP提供生活圈商城模块。
+
+**项目职责：**
+
+负责生活圈商城线上部署，对接商城定制开发需求、规划开发排期。
 
 ### 其他项目
 
@@ -135,6 +138,9 @@
 
 1. XShop小程序商城 [https://gitee.com/peakxin/xshop](https://gitee.com/peakxin/xshop)
 2. posterjs生成商品海报 [https://gitee.com/peakxin/posterjs](https://gitee.com/peakxin/posterjs)
+3. XMall电商系统用户端 [https://github.com/xinyflove/xmall-fe](https://github.com/xinyflove/xmall-fe)
+4. XMall商城系统后台端 [https://github.com/xinyflove/xmall-admin-fe](https://github.com/xinyflove/xmall-admin-fe)
+5. XMall商城系统数据服务 [https://github.com/xinyflove/xmall](https://github.com/xinyflove/xmall)
 
 ## 教育经历
 
