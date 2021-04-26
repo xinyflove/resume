@@ -5,7 +5,6 @@
 - 辛玉峰/男/1990
 - 联系电话: +86 176-xxxx-xxxx
 - 电子邮箱: [xinyflove&#64;sina.com](xinyflove&#64;sina.com)
-- 期望职位：PHP开发工程师 / 前端开发工程师
 - 个人博客: [https://xinyufeng.net](https://xinyufeng.net)
 - GitHub: [https://github.com/xinyflove](https://github.com/xinyflove)
 - Gitee: [https://github.com/peakxin](https://gitee.com/peakxin)
