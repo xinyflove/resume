@@ -13,7 +13,7 @@
 ## 技能清单
 
 - 后端开发：PHP
-- 后端框架：Laravel/ThinkPHP/ShopEX B2B2C/ThinkCMF
+- 后端框架：Laravel/ThinkPHP/ShopEX B2B2C/ThinkCMF/Yii2
 - 前端开发：Html5/JavaScript/CSS/Less
 - 前端框架：Vuejs/Bootstrap/jQuery/LayUI/uni-app
 - 数据库相关：MySQL(索引优化、业务需求分析与表结构设计)/PDO
