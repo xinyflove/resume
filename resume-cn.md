@@ -6,83 +6,67 @@
 - 联系电话: +86 176-xxxx-xxxx
 - 电子邮箱: [xinyflove&#64;sina.com](xinyflove&#64;sina.com)
 - 个人博客: [https://xinyufeng.net](https://xinyufeng.net)
-- GitHub: [https://github.com/xinyflove](https://github.com/xinyflove)
-- Gitee: [https://github.com/peakxin](https://gitee.com/peakxin)
 - CSDN博客: [https://blog.csdn.net/xinyflove](https://blog.csdn.net/xinyflove)
 
 ## 技能清单
 
+- 项目管理：PMP/思维导图/甘特图/流程图/原型图/团队建设
 - 后端开发：PHP
-- 后端框架：Laravel/Yii2/ThinkPHP/ShopEX B2B2C/ThinkCMF
+- 后端框架：Laravel/Yii2/ThinkPHP/ThinkCMF/ShopEX B2B2C
 - 前端开发：Html5/JavaScript/CSS/Less
-- 前端框架：Bootstrap/jQuery/LayUI/uni-app/Vuejs
+- 前端框架：ElementUI/Bootstrap/jQuery/LayUI/Vuejs/uni-app
 - 数据库相关：MySQL(索引优化、业务需求分析与表结构设计)/PDO
-- 版本管理工具：SVN/Git/Composer/npm
+- 版本管理工具：Git/SVN/Composer/npm/GitLab
 - 缓存：Redis/Memecached
-- 微信相关: 微信公众号、小程序开发、微信支付、小程序支付
-- Linux：常用命令、定时化任务、项目环境搭建与部署
-- 高并发、性能优化方案：SQL优化、缓存技术、静态化页面、OSS云存储、CDN加速、负载均衡
-- 安全：Token加密解密验证、SQL注入
-- 其他：熟悉MarkDown语法，了解Java/Python/React/webpack/NodeJS/CodeIgniter/Drupal/WordPress/ShopNC/SQLite等
+- 微信相关: 微信公众号开发/小程序开发/微信支付/小程序支付
+- Linux：常用命令/定时化任务/项目环境搭建与部署
+- 高并发、性能优化方案：SQL优化/缓存技术/静态化页面/OSS云存储/CDN加速/负载均衡
+- 安全：Token加密解密验证/JWT/SQL注入
+- 其他：熟悉MarkDown语法
 
 ## 个人优势
 
-- 9年PHP开发经验，5年商城系统开发经验，3年项目管理经验，积累了较多的业务、开发和项目管理经验；
+- 9年+PHP开发经验，5年+商城系统开发经验，3年+项目管理经验，积累了较多的业务、开发和项目管理经验；
 - 有良好的学习能力、沟通能力、解决问题能力，拥有较强的工作责任感；
 - 拥有 Geek 精神，热爱开源，喜欢把自己总结的知识和经验写在博客上，供大家参考。
 
 ## 工作经验
 
-### **PHP 开发工程师** [[青岛培诺教育科技股份有限公司](https://www.pennon.com.cn/)]
+### **技术主管** [[青岛培诺教育科技股份有限公司](https://www.pennon.com.cn/)]
 
 *2021/5 - 至今*
 
 在「技术部」担任部门主管，其主要职责如下：
 
  * 负责技术部日常管理和研发管理工作，带领团队完成公司制定的开发目标；
- * 负责解决开发过程中的技术问题，参与技术难题攻关；
- * 项目立项报告、需求文档、开发文档和软著申请资料编写。
+ * 负责技术和架构选型，解决开发过程中的技术问题，参与技术难题攻关；
+ * 项目立项报告、需求文档、开发文档和软著申请资料编写，以及配合申请软件企业相关认证和证书。
 
 
-### **PHP 开发工程师** [[青岛广电传媒电子商务有限公司](http://www.qtvinfo.com)]
+### **团队组长** [[青岛广电传媒电子商务有限公司](http://www.qtvinfo.com)]
 
 *2017/8 - 2021/5*
 
-在「媒体电商部」下主要负责 PHP开发、前端开发、项目管理、线上部署和技术面试，其主要职责如下：
+在「媒体电商部」担任媒体电商组和前端组组长，其主要职责如下：
 
-* 担任媒体电商组和前端组组长；
+* 负责PHP开发、前端开发、线上部署和项目管理，带领团队完成上级安排的工作；
 * 商派BBC商城系统和大商创BBC系统二次开发；
-* 基于ThinkPHP和Laravel框架的项目开发；
-* 前端页面开发；
-* 需求分析、人员安排和线上环境部署。
+* 需求沟通与分析、人员安排和线上环境部署，并参与解决技术难题。
 
 
-### **PHP 开发工程师** [[青岛华正信息技术有限公司](http://www.huazhenginfo.com)]
+### **PHP开发工程师** [[青岛华正信息技术有限公司](http://www.huazhenginfo.com)]
 
 *2016/04 - 2017/08*
-
-在PHP开发团队中作为开发成员，其主要职责如下：
-
-* 基于成熟的商城系统（ShopEX B2B2C和ShopNC）进行二次开发；
-* 基于微赞框架的微信公众号开发；
-* 基于ThinkPHP和CI框架的系统开发。
 
 
 ### **PHP 开发工程师** [[青岛众恒信息科技股份有限公司](http://www.zehin.com.cn)]
 
 *2015/07 - 2016/04*
 
-在开发团队中作为PHP开发成员，其主要职责如下：
-
-* 使用Drupal框架，维护消防云平台；
 
 ### **PHP 开发工程师** [青岛双牛信息技术有限公司]
 
 *2013/11 - 2015/07*
-
-在PHP开发团队中作为开发成员，其主要职责如下：
-
-* 基于公司内部框架，对智能客服系统进行开发和维护；
 
 ## 项目经验
 
@@ -99,6 +83,12 @@
 **项目职责：**
 
 对接部门需求、功能规划、制定开发排期、表结构设计、业务代码开发、线上环境部署和后期运维工作。
+
+### 培诺BPM管理系统
+
+**项目介绍：**
+
+整合系统
 
 ### 培诺教育内部系统
 
@@ -143,5 +133,5 @@
 
 ## 教育经历
 
-*2015 - 2017* [中国海洋大学（函授）](http://jxjy.ouc.edu.cn/) 工商管理 本科  
-*2009 - 2012* [潍坊科技学院](http://www.wfust.edu.cn/) 计算机网络技术 专科
+*2015 - 2017* [中国海洋大学（函授）](http://jxjy.ouc.edu.cn/) 工商管理 函授本科  
+*2009 - 2012* [潍坊科技学院](http://www.wfust.edu.cn/) 计算机网络技术 统招专科
