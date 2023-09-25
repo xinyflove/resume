@@ -2,11 +2,9 @@
 
 ## 个人信息
 
-- 辛玉峰/男/1990
-- 联系电话: +86 176-xxxx-xxxx
-- 电子邮箱: [xinyflove&#64;sina.com](xinyflove&#64;sina.com)
-- 个人博客: [https://xinyufeng.net](https://xinyufeng.net)
-- CSDN博客: [https://blog.csdn.net/xinyflove](https://blog.csdn.net/xinyflove)
+- 辛玉峰 / 男 / 1990 / 已婚已育
+- 联系方式: +86 176-xxxx-xxxx | [xinyflove&#64;sina.com](xinyflove&#64;sina.com)
+- 主页博客: [https://xinyufeng.net](https://xinyufeng.net) | [https://blog.csdn.net/xinyflove](https://blog.csdn.net/xinyflove)
 
 ## 技能清单
 
